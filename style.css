@@ -1,0 +1,122 @@
+@charset "utf-8";
+/* CSS Document */
+
+#barra{
+	background-color: #FFCE29;
+	padding: 1.5%;
+	text-align: center;
+}
+
+#barra h2{
+	font-weight: 700;
+}
+
+#hero .overlay{
+	background-color: rgba(60,23,24,0.5); 
+	padding: 10% 5%;
+}
+#hero{
+	text-align: center;
+	background-image:url("imagenes/currywurst.jpg");
+	background-size: cover;
+	background-position: center;
+	color: #fff;
+}
+
+#hero h1{
+	font-size: 450%;
+	font-weight: 700;
+	padding: 5%;
+}
+
+#hero h3{
+	font-size: 200%;
+	font-weight: 400;
+	padding: 2%;
+}
+
+#ingredientes {
+	background-color: antiquewhite;
+	text-align: center;
+}
+
+#ingredientes h2, #rezept h2{
+	font-size: 300%;
+	padding: 2.5%;
+	font-weight: 600;
+	
+}
+#ingredientes img{
+	padding-top: 10%;
+}
+
+#ingredientes .rojo{
+	font-size: 150%;
+	font-weight: 650;
+	background-color:rgba(254,93,95,1.00);
+	color: #000;
+}
+
+#ingredientes .gris{
+	font-size: 150%;
+	font-weight: 650;
+	background-color: #74BFFF;
+	color: #000;
+}
+
+#ingredientes .amarillo{
+	font-size: 150%;
+	font-weight: 650;
+	background-color: #FFCE29;
+	color: #000;
+}
+
+#ingredientes p{
+	padding-top: 10%;
+}
+
+#rezept{
+	background-color: antiquewhite;
+	text-align: center;
+}
+
+#rezept img{
+	padding: 3% 1%;
+	background-position: center;
+}
+.fondo_red{
+	background-color:rgba(254,93,95,1.00);
+	margin: 1%;
+}
+
+.fondo_amarilla{
+	background-color: #FFCE29;
+	margin: 1%;
+}
+
+.fondo_azul{
+	background-color: #74BFFF;
+	margin: 1%;
+}
+#rezept h3{
+	text-align: left;
+	padding: 5%;
+	font-size: 350%;
+}
+
+.overlay2{
+	background-color: rgba(60,23,24,0.5); 	
+	padding: 10%;
+}
+
+#final{
+	text-align: center;
+	background-image: url("imagenes/currywurst2.jpg");
+	background-position: center;
+	background-size: cover;
+	color: #EFEFEF;
+}
+
+#final h2{
+		font-size: 500%;
+}
